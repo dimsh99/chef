@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/chef/omnibus
-  revision: c1f49993ce7daeac6fbb4352e8787468d81a1121
-  branch: master
+  revision: 23a2606912606c987dc289bedf9bb9878e9cbf64
+  branch: fix_ruby26_mac
   specs:
     omnibus (6.0.12)
       aws-sdk-s3 (~> 1)
